@@ -2,7 +2,7 @@
 <img width="30" src="https://emojis.slackmojis.com/emojis/images/1643515045/10753/meow_bread_peek.gif?1643515045" alt="Meow Brad" /><br>
 Eu sou a Patrícia Rodrigues
 <img width="50" src="https://emojis.slackmojis.com/emojis/images/1643515353/13712/cat_banana.gif?1643515353" alt="Banana Cat" /></h1>
-<h3 align="center">Estudante de TI <img width="20" src= "https://emojis.slackmojis.com/emojis/images/1643514334/3077/female-bl-technologist.png?1643514334" alt="Girl Developer"/> que deseja utilizar a tecnologia para ajudar pessoas</h3>
+<h3 align="center">Estudante de TI <img width="20" src= "https://emojis.slackmojis.com/emojis/images/1643514334/3077/female-bl-technologist.png?1643514334" alt="Girl Developer"/> que deseja utilizar a tecnologia para contribuir com um mundo mais inclusivo</h3>
 
 ---
  <div align="center">
